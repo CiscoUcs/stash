@@ -1,7 +1,7 @@
 # Cisco Ucs Python SDK #
 ---
 # Installation
-    pip install ucmsdk
+    pip install ucsmsdk
 
 ---
 # Agenda #
